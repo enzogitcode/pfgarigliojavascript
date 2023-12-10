@@ -144,7 +144,7 @@ function eliminarDelCarrito(id) {
         x: "2.5rem",
         y: "6.5rem"
       },
-      onClick: function () { }
+      onClick: function () {}
     }).showToast();
     obtenerTotal();
   }
